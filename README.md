@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaiwandR
-- 👀 I’m interested in learning about coding and solvind problems and puzzles
-- 🌱 I’m profficent in Java, C, C++,Python, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on projects with freinds and organizations. Hope we can enjoy our time together.
+- 👀 I’m interested in learning about coding and solving problems, and puzzles
+- 🌱 I’m proficient in Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Flask, Swift, React Native
+- 💞️ I’m looking to collaborate on projects with friends and organizations while building and growing towards being in a software engineering role.
 - 📫 How to reach me:
 -  email: maiwandsonic@gmail.com 
 
